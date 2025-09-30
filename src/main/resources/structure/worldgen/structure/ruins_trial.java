@@ -1,3 +1,4 @@
+package dibs.bossfight.basketball;
 package structure.worldgen.structure;
 
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -18,7 +19,7 @@ public class ruins_trial {
   "start_pool": "minecraft:trail_ruins/tower",
   "size": 1,
   "start_height": {
-    "above_bottom": 0
+    "above_bottom":0
   },
   "start_jigsaw_name": "ruins_tower_trial",
   "project_start_to_heightmap": "WORLD_SURFACE_WG",
