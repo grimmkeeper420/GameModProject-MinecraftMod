@@ -10,7 +10,7 @@ import net.neoforged.neoforge.registries.DeferredHolder;
 
 public class basketball_court {
     public static final DeferredRegister<StructureType<?>> STRUCTURE_TYPES =
-            DeferredRegister.create(Registries.STRUCTURE_TYPE, YourMod.MOD_ID);
+            DeferredRegister.create(Registries.STRUCTURE_TYPE, basketball.MOD_ID);
 
     // 1. Define the ResourceKey for your Structure JSON (Structure)
     public static final ResourceKey<Structure> BASKETBALL_COURT_KEY = createStructureKey("basketball_court");
