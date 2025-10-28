@@ -9,7 +9,7 @@
   "step": "surface_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",
-  "start_pool": "court:court_badlands/court_centers",
+  "start_pool": "court:court_centers",
   "size": 1,
   "start_height": {
     "absolute": 70
