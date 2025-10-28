@@ -1,0 +1,14 @@
+{
+    "name":"court:court_badlands/court_centers",
+    "fallback":"minecraft:empty",
+    "elements":[
+        {
+        "weight":1,
+        "element":{
+            "location":"court:court_badlands/court_centers/mesa_court",
+            "processors":"minecraft:empty",
+            "projection":"rigid",
+            "element_type":"minecraft:single_pool_element"
+        }
+    }]
+}
