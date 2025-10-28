@@ -1,11 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": [
-    "minecraft:desert",
-    "minecraft:badlands",
-    "minecraft:wooded_badlands",
-    "minecraft:eroded_badlands"
-],
+  "biomes": "minecraft:has_structure/court_badlands",
   "step": "surface_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",
