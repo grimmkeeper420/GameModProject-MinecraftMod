@@ -1,5 +1,5 @@
 {
-    "name":"court:mesa_court",
+    "name":"court:mesa",
     "fallback":"minecraft:empty",
     "elements":[
         {
