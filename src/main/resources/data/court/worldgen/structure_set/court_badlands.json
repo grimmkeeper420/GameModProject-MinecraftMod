@@ -7,7 +7,7 @@
         "spread_type": "triangular"
     },
     "structures": [{
-        "structure": "court:court_badlands",
+        "structure": "court:court_badland_s",
         "weight": 1
     }]
 }

@@ -1,11 +1,11 @@
 {
-    "name":"court:structures",
+    "name":"court:mesa_court",
     "fallback":"minecraft:empty",
     "elements":[
         {
         "weight":1,
         "element":{
-            "location":"court:mesa_court",
+            "location":"court:mesa/mesa_court",
             "processors":"minecraft:empty",
             "projection":"rigid",
             "element_type":"minecraft:single_pool_element"
